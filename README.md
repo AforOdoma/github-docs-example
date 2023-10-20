@@ -2,7 +2,7 @@
 [<sup>[2]</sup>](#External-References).
 ## Step 1 - Using Codeblocks
 
-codeblocks in *markdown* makes it easy **forr tech people** to 
+codeblocks in *markdown* makes it easy **for tech people** to 
 
 ```
 def factorial(n)
@@ -16,8 +16,6 @@ end
 # Test the factorial function
 puts "Factorial of 5 is #{factorial(5)}"
 ```
-
--thhhhh
 
 ```ruby
 def factorial(n)
